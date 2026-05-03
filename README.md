@@ -46,7 +46,3 @@ Output: A directory containing splitted PCAPs (one file per flow).
 - `quic_decryptor.py` - Decrypt QUIC traffic
 - `quic_parser.py` - Parse TLS payload from QUIC
 - `Scenario_hrftc.ipynb` - Classification experiments
-
-## Requirements
-
-See `requirements.txt` for the complete list of dependencies.
